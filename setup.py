@@ -5,11 +5,11 @@ with open('README.md', 'r', encoding='utf-8') as f:
     long_description = f.read()     
    
 
-__version__ = "0.0.4"
+__version__ = "0.0.5"
 REPO_NAME = "mongo-db-c"
 PKG_NAME= "databaseautomation"
-AUTHOR_USER_NAME = "sunnysavita10"
-AUTHOR_EMAIL = "sunny.savita@ineuron.ai"
+AUTHOR_USER_NAME = "sajanpoudel"
+AUTHOR_EMAIL = "sajan123poudel4@gmail.com"
 
 setup(
     name=PKG_NAME,
